@@ -57,7 +57,7 @@ This page collects notebooks of almost all math courses taken by Youthy, during 
 		5. Symmetric Matrices and Singular Value Decomposition 
 		6. Coordinate Vectors and Linear Transformations
 
-* [Analysis (under-construction)](../files/MATH_note5_analyses.pdf)
+* [Analysis (under-construction)](https://drive.google.com/file/d/1Y4eJiuCgkcTkj4ZL5EHzoCd1OsThlAh2/view?usp=drive_link)
 	- Course Codes: MAT-2006, MAT-2007, MAT-3253, MAT-3006, MAT-4010 
 	- Instructors: Prof. Yutian Li (Real & Functional Analysis), Prof. Kenneth Shum (Complex Variables), CUHKSz; Self-reading Notes
 	- Contents: 
